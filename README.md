@@ -1,6 +1,7 @@
 ### Hi there 👋
+### Приветствую на своеё страничке.
 
-!!!***@@@
+Добро пожаловать!!!***@@@
 
 <!--
 **KSU-KGN/KSU-KGN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
